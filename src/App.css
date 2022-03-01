@@ -10,7 +10,6 @@
   justify-content: center;
   align-items: center;
 }
-
 .quote-cont{
   display: flex;
   flex-direction: column;
@@ -24,15 +23,12 @@
   -ms-border-radius: 20px;
   -o-border-radius: 20px;
 }
-
 .quote-cont h3{
   font-weight: 500;
 }
-
 .quote-cont h4{
   text-align: right;
 }
-
 .quote-cont button{
   display: block;
   align-self: flex-end;
